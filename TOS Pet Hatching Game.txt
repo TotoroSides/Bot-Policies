@@ -1,0 +1,92 @@
+Terms of Service for: Pet Hatching Game
+
+Effective Date: 27/11/2024
+
+These Terms of Service (“Terms”) govern the use of Pet Hatching Game (“the Bot”), a Discord bot created by Megan01Life & SidestepTotoro, (“we,” “our,” or “us”). By using or accessing the Bot, you agree to these Terms. If you do not agree with these Terms, you must not use the Bot.
+
+1. Acceptance of Terms
+
+By inviting or using Pet Hatching Game in any Discord server, you acknowledge that you have read, understood, and agree to comply with these Terms. We may update these Terms from time to time, and you will be notified of significant changes by posting the updated Terms on this page.
+
+2. Eligibility
+
+You must be at least 13 years old to use Pet Hatching Bot. If you are under 13, you must not use or invite the Bot to your server. By using the Bot, you represent and warrant that you meet the age requirements and have the authority to enter into these Terms.
+
+3. Usage of the Bot
+
+a) License
+
+We grant you a limited, non-exclusive, non-transferable license to use the Bot for personal purposes, subject to these Terms.
+
+b) Permitted Use
+
+You agree to use the Bot only for lawful purposes and in accordance with the Discord Terms of Service and Community Guidelines. You may use the Bot to:
+
+    Perform commands.
+    Access features like moderation, and utilities.
+
+c) Prohibited Use
+
+You agree not to use the Bot in a manner that:
+
+    Violates any applicable laws or regulations.
+    Harasses, threatens, or otherwise harms other users or servers.
+    Disrupts the functionality of the Bot or any other Discord server or service.
+    Spams, floods, or otherwise interferes with other users’ experience.
+    Attempts to exploit, decompile, reverse engineer, or interfere with the Bot’s source code or functionality.
+
+4. Bot Permissions
+
+The Bot requires certain permissions to operate within your server, such as:
+
+    Reading and sending messages
+    Managing messages (for moderation features)
+   
+
+By inviting the Bot to your server, you consent to granting the Bot the permissions necessary for its operation. You can remove or adjust these permissions at any time by modifying the Bot’s role in your server.
+
+5. Data Collection and Privacy
+
+The Bot collects and processes certain user data, including Discord usernames, messages, and command inputs, in order to function properly. By using the Bot, you consent to the collection and use of this data as described in the Privacy Policy. You are responsible for ensuring that any use of the Bot complies with privacy laws and the privacy rights of users in your server.
+
+For more information, please review our Privacy Policy.
+
+6. Bot Availability
+
+We make reasonable efforts to ensure that the Bot is available and functional at all times. However, we cannot guarantee uninterrupted service. We reserve the right to suspend, modify, or discontinue the Bot’s services at any time, for any reason, without notice. We are not liable for any downtime, interruptions, or errors in the Bot’s functionality.
+
+7. User Content
+
+By using the Bot, you agree that you are solely responsible for any content you submit or interact with using the Bot (such as messages, images, etc.). You agree not to submit any content that is unlawful, harmful, or violates Discord’s Community Guidelines.
+
+We reserve the right to remove any content that violates these Terms or is reported by users, including any spam, offensive material, or illegal content.
+
+8. Limitation of Liability
+
+To the fullest extent permitted by law, Megan01Life & SidestepTotoro are not liable for any direct, indirect, incidental, special, or consequential damages, including but not limited to loss of data, loss of profits, or damages to your Discord server or community, arising out of or related to your use of the Bot, whether based on contract, tort, or other legal theory, even if we have been advised of the possibility of such damages.
+
+9. Indemnity
+
+You agree to indemnify, defend, and hold harmless Megan01Life & SidestepTotoro, its affiliates, and their respective officers, employees, agents, and contractors from and against any claims, losses, damages, liabilities, or expenses (including reasonable attorneys' fees) arising out of or in connection with:
+
+    Your use of the Bot.
+    Any content you submit, post, or transmit through the Bot.
+    Your violation of these Terms or applicable laws.
+
+10. Termination
+
+We reserve the right to suspend or terminate your access to the Bot if you violate these Terms or engage in activities that disrupt the Bot’s services. You may also disconnect the Bot from your server at any time by removing it from your server or disabling its permissions.
+
+11. Changes to the Terms
+
+We may modify or update these Terms at any time. When we make changes, we will post the updated Terms on this page with a new effective date. By continuing to use the Bot after these changes are made, you accept the revised Terms.
+
+12. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of The United Kingdom, without regard to its conflict of law principles. Any disputes related to these Terms will be resolved in the courts located in The United Kingdom.
+
+13. Contact Information
+
+If you have any questions or concerns about these Terms or the Bot, please contact us at:
+
+https://discord.gg/VumB4T3Dff on Discord
